@@ -8,6 +8,16 @@ manipulate 操纵
 basement 地下室
 tunnel 隧道
 lamp 台灯
+pupils 学生
+assignment 作业
+textbook 教科书
+documentary 纪录片
+bullet points 要点
+outline 提纲，概述
+bury 埋葬  =>  move ... ... underground
+ape 猿猴
+pull out 退出，停止  =  stop
+pull over 靠边停车
 
 ### 剑9
 #### Listening
@@ -16,10 +26,8 @@ advertising  广告
 engine maintenance 保养，维护
 mechanical 机械的
 sales 销售  =>   retail 零售
-staffing  员工管理  =>  the squadron of workers
+staffing  员工管理  => recruit(招募) and support workers
 construction 建造
-
-
 
 
 ### 剑9-test2-passage2
