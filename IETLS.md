@@ -66,14 +66,39 @@
             - 单复数
             - 连字符
         - 配对题
-            - 考点： 听清原词 + 改写
             - 审题时可以通过比较选项，只看不同的地方(词) => 注意这些词的改写
+            - 考点分析
+                - 定位问题： S(听清原词), L(听清连接词), O(按顺序做题), P(改写),
+                - 选对答案： S(原词) + P(改写)
             - 总结表格如下
 
             |题号 |听到题目 |听到答案|句音&翻译 |
             |----|----|----|----|
             |14|Simon|mechanical||
             |15||||
+
+            - 改写类型 (注意这里的等于只针对雅思听力，不是说单词完全相等)
+                - 短改写
+
+                |类型 |举例 |
+                |----|----|
+                |改词性|current = currently|
+                |同义词|homework = assignment|
+                |同类词|assignment = paper, color = blue, color = shade<色号>|
+                |解释说明|staffing = recruiting and supporting workers|
+                |双重否定|common = not unusual|
+                |代词替换|those = people, James = he'll|
+                |语境|动物中: eat more = successfully|
+                |简单颠倒||
+                - 长改写
+
+                |类型 |举例 |
+                |----|----|
+                |句子A = 句子B|意思上相等|
+                |主动 = 被动|sth could be removed = remove sth|
+
+        
+
         - 地图题
             - 考点:词音 + 句音 + 逻辑 + 改写
             - 一定要解决发音为题
@@ -134,6 +159,7 @@
         - [ ] 7.12  听力方法论6
         - [ ] 7.13  听力方法论复习
         - [x] 7.30  阅读方法论1
+        - [x] 8.3  剑8-Test3-Passage3 HOW DOES THE BIOLOGICAL CLOCK TICK?
         - [ ] 7.16  阅读方法论2
         - [ ] 7.17  阅读方法论复习 + (阅读0.5h + 精读2h)
 
