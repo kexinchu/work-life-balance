@@ -24,6 +24,17 @@ pull over 靠边停车
 ##### Test3 - Passage3
 mutation  突变
 organisms  有机体
+metabolic  新陈代谢的，变化的
+fundamental  基本的
+possess 拥有 = have
+inevitable  必然的
+characteristic 特征，特点 = property
+permanent 永久的
+distinctly  明显的
+energy consumption 消耗能力
+extend life  延长寿命
+optimal  优化 -> optimalize  优化
+optimal cardiovascular performance  提高心血管表现
 
 
 ### 剑9
@@ -52,3 +63,22 @@ establish  确定，建立
 expeditions  探险队
 cosmic  宇宙的
     - The AU(the distance of the Earth from the sun) is a cosmic measuring rod, and the basis of how we scale the Universe today.
+
+
+### 剑16
+#### Reading
+hillside  半山腰
+mysterious  神秘的  = enigmatic
+controversial  争议的
+grass  草
+reveal  暴露，露出
+alter  改变
+fade  逐渐消失，褪色
+stretch back over millennia  回溯千年
+steep  陡峭的
+slope  斜坡
+castle  城堡
+mention  提到，提及
+period  周期
+soil 土地，土壤  <- oil 油，石油
+- There are 56 hill figures scattered around England, with the vast majority on the chalk downlands of the country’s southern counties. 
