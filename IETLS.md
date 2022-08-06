@@ -154,7 +154,6 @@
             - [ ][第三类考点词]()
     
 - [ ] 方法论学习 - 理论学习   
-    - 第三周
         - [x] 7.2  听力方法论1
         - [x] 7.17  听力方法论2
         - [x] 7.22  听力方法论3
@@ -163,16 +162,17 @@
         - [ ] 7.12  听力方法论6
         - [ ] 7.13  听力方法论复习
         - [x] 7.30  阅读方法论1
-        - [x] 8.03  剑8-Test3-Passage3 HOW DOES THE BIOLOGICAL CLOCK TICK?
         - [x] 8.06  阅读方法论2
         - [ ] 7.17  阅读方法论复习 + (阅读0.5h + 精读2h)
 
-        - [ ] 7.10  模考-真题16-1 摸底考试，明确基础 
+        - [x] 7.31 剑 9-T2-P2 Venus in transit
+        - [x] 8.03 剑 8-T3-P3 HOW DOES THE BIOLOGICAL CLOCK TICK?
 
 - [ ] 听力 & 阅读积累阶段 [新东方模考网](https://ieltscat.xdf.cn/mock)
-    - 第四周
-        - [ ] 7.18 听力0.5h + 精听2h
-        - [ ] 7.19 阅读1h + 精读2h
+        - [x] 7.27 剑16-T2-P2 I contain multitudes 
+        - [x] 8.06 剑16-T2-P1 The White Horse of Uffington
+        - [x] 8.06 剑16-T2-P3 How to make wise decisions
+        
         - [ ] 7.20 听力0.5h + 精听2h
         - [ ] 7.21 阅读1h + 精读2h  
         - [ ] 7.22 听力0.5h + 精听2h 
