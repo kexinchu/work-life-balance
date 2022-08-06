@@ -29,6 +29,8 @@ obsession  痴迷  =>  Our obsession with hygiene
 hygiene  卫生
 antibiotic  抗生素
 fibre  纤维  low-fibre diets 低纤维饮食
+soaring  飙升  soaring rates of allergies(过敏) and immune problems,
+
 
 
 ##### Test2 - Passage3
