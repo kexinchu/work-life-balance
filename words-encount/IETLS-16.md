@@ -3,6 +3,25 @@
 #### Listening
 
 #### Reading
+##### Test1 - Passage1
+mutation 突变    eg. In humans, mutations of this gene are associated with increased risk of heart disease.
+cholesterol  胆固醇
+fasting  禁食 = without food
+manipulation 操纵，操作
+appeared to be  似乎是  =  similar to
+definite  确定
+incredible  极好的
+despite  尽管
+
+##### Test1 - Passage2
+pyramid  金字塔
+monument  纪念碑
+quarter  住处
+temple  寺庙
+shrine  神社
+a revolutionary advance  革命性进步
+archetype  原型，榜样
+criticize  批评
 
 ##### Test2 - Passage1
 hillside  半山腰
@@ -30,7 +49,20 @@ hygiene  卫生
 antibiotic  抗生素
 fibre  纤维  low-fibre diets 低纤维饮食
 soaring  飙升  soaring rates of allergies(过敏) and immune problems,
-
-
-
+ 
 ##### Test2 - Passage3
+revered  令人尊敬的;  Across cultures, wisdom has been considered one of the most revered human qualities.
+wise  明智，智慧 
+given the right context  在正确的背景下
+empirical research   经验-empirical
+exceptional  特殊的
+trait  特征，特点 = characteristic = property
+possess  拥有 = have
+Wisdom appears to be unique to *** the human race ***. 智慧是人类独有的
+assumption  假设，猜想
+concept  概念, 学说
+experiential  经验上的
+be underestimated  被低估的
+reflect  反思
+instruct  指令，要求
+perspective  观点，看法

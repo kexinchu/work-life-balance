@@ -104,6 +104,18 @@
                 - 4、题目中小写的词(基本上 = 改写，不值得等，专心做3)；很可能听不到
                 - 5、留意逻辑关系连接词对答案的提醒:firstly, so, but, ... ...
 
+        - 逻辑词
+            - 并列: and, also, as well as, then, another, anything else, is that all?
+            - 对比: at the same time
+            - 顺序: firstly, then, secondly, after that, lastly, finally, ...
+            - 解释: I mean, this means, in other words
+            - 举例: such as, like, for example
+            - 转折: but, however, all of a sudden, whereas
+            - 因果: because, since, so, therefore
+            - 强调: in fact, actually, especially, do + v, of course, important
+            - 插入语: let me see, you know, ...
+            - 新话题: now, anyway
+            - 补充: oh, hang on, wait a minute
     - 阅读题
         - 考点
             - 雅思只考原文内容的理解(直给的)；考最多的是原文内容的同意替换
@@ -163,32 +175,32 @@
         - [ ] 7.13  听力方法论复习
         - [x] 7.30  阅读方法论1
         - [x] 8.06  阅读方法论2
-        - [ ] 7.17  阅读方法论复习 + (阅读0.5h + 精读2h)
+
+        - [ ] 8.08  阅读方法论复习 + (剑16-Test2复习)
 
         - [x] 7.31 剑 9-T2-P2 Venus in transit
         - [x] 8.03 剑 8-T3-P3 HOW DOES THE BIOLOGICAL CLOCK TICK?
 
 - [ ] 听力 & 阅读积累阶段 [新东方模考网](https://ieltscat.xdf.cn/mock)
+        - 剑16 + 剑8 + 剑9 12套题
+
         - [x] 7.27 剑16-T2-P2 I contain multitudes 
         - [x] 8.06 剑16-T2-P1 The White Horse of Uffington
-        - [x] 8.06 剑16-T2-P3 How to make wise decisions
-        
+        - [x] 8.07 剑16-T2-P3 How to make wise decisions
+
+
+
+
         - [ ] 7.20 听力0.5h + 精听2h
         - [ ] 7.21 阅读1h + 精读2h  
         - [ ] 7.22 听力0.5h + 精听2h 
         - [ ] 7.23 阅读1h + 精读2h
         - [ ] 7.24 复习 生词 + 语法
 
-    - 第五周
-        - [ ] 7.25 听力0.5h + 精听2h
-        - [ ] 7.26 阅读1h + 精读2h
-        - [ ] 7.27 听力0.5h + 精听2h
-        - [ ] 7.28 阅读1h + 精读2h
-        - [ ] 7.29 听力0.5h + 精听2h
-        - [ ] 7.30 阅读1h + 精读2h
-        - [ ] 7.31 复习 生词 + 语法
+    
 
-- 开始接触写作
+- 9月份 - 开始写作相关内容
+    - 剑12， 剑 15， 剑10
     - 第6周
     - [ ] 8.1 听力0.5h + 精听2h
     - [ ] 8.2 小作文题型1  思路+语言+试写
@@ -234,7 +246,8 @@
     - [ ] 9.3 大作文题型1  + 大作文题型2
     - [ ] 9.4 复习 生词 + 语法
 
-- 开始接触口语
+- 9月15号 - 开始接触口语
+    - 剑11，剑13，剑14
     - 第11周
     - [ ] 9.5 阅读0.5h + 精读2h
     - [ ] 9.6 大作文题型3  思路+语言+试写
@@ -273,7 +286,5 @@
     - [ ] 10.2 复习 生词 + 语法
 
 - 最后冲刺
-    - [ ] 模拟1
-    - [ ] 模拟2
-    - [ ] 模拟3
-    - [ ] 模拟4
+    - 10月20号考试
+    - 模拟考试剑17
