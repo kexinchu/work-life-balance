@@ -92,6 +92,10 @@ February
 August
 separate  分离
 laboratory  实验室
+substance  物质
+permanent  永恒的
+life span  寿命
+inevitable  不可避免的
 
 
 - 乐器

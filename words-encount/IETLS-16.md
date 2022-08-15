@@ -1,6 +1,16 @@
 ### 剑16
 
 #### Listening
+##### Test1
+decorate  装饰
+vehicle  车辆
+meditation  冥想
+capitalism  资本主义
+communism  共产主义
+irrational  非理性的  <=> logic
+depression  沮丧
+practical  实际的 = realistic = actual = feasible = concrete(具体的) = particular (特定，具体)
+
 
 #### Reading
 ##### Test1 - Passage1
