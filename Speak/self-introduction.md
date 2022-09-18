@@ -9,4 +9,4 @@
     I have been working for two years, as a software engineer in a technology company called Baidu.
 
 #### 目标国家和学校
-    my goal is the KTH Royal Institute of Technology in Sweden
+    My goal is the KTH Royal Institute of Technology in Sweden

@@ -51,3 +51,33 @@ In line with predictions   与预测一致   = as predict
     facilitate social relationships = build social connections
     energising  = stimulating   有活力的
     established notion = traditional view; 
+
+
+#### Test3 - Passage1
+sketch  素描，草图
+mine    矿
+miner   矿工
+    - minor  次要的
+
+#### Test3 - Passage1
+film   **薄膜**, 电影  
+particle    微粒，
+caught      抓住
+filter      过滤器
+##### 句子
+    Any particles in the water are caught in a filter = The device has a very simple filter to trap particles
+
+#### Test3 - Passage3
+considerable   大量的
+evolution       进化   
+aspect     方面，详情 
+Contrary to other beliefs  与其他人的观念相反
+plot        情节
+caution     警示
+cautionary      警示性的
+##### 同义替换
+    link = related
+    explore = find out
+    incident = event
+
+they won’t stick unless they matter  除非他们很重要，否则他们不会坚持下去

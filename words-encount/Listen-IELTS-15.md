@@ -99,3 +99,93 @@ arid    干旱
     later = after a time
     difficult = problem
     appropriate = suitable
+
+
+#### Test3 Section1
+##### 拼写错误的单词：
+    furniture
+    diary
+    customer
+    heavy   重的
+    delivery  交货 (deliveries)  <=>  stock 存储
+cope with  处理
+spreadsheet   电子表格
+commute   通勤    a long commute
+warehouse    仓库
+obviously  明显的
+literate   识字的，基础知识
+stuff   东西,材料   the usual stuff
+organization and tidy    tidy(n 整理， adj 整洁的)
+essential   基本的
+
+##### 同义替换
+    make = produce
+    manage = management of
+    attention to = takes care with
+    be part of = working in
+
+
+#### Test3 Section2
+resident   居民
+warden   看守的人
+motorist   驾驶者
+minority   少数民族
+went up   上升
+##### 同义词替换
+    at the moment  =  now
+    under 20 kilometres per hour  =  slowly
+    busy roads  =  areas with heavy traffic.
+    develop confidence in themselves  = increase sense of indenpendence
+    have a big extended family = be part of a community
+    hadn't expected = surprised = amazed
+    quieter = less noise 
+
+#### Test3 Section3
+prominent  突出
+coverage   覆盖范围
+keen   敏锐的
+explicitly   明确的
+assignment   任务
+treatment    治疗
+editorial    社论
+
+##### 考试拼写错误
+    assumption    假设
+    purpose    目标
+    graphic    图片
+
+##### 同义替换
+    accompany = in addition to
+
+#### Test3 Section4
+rinse     冲洗
+cylinder   柱子
+clay    粘土
+inscription   **上面的文字
+boil   煮
+ash    灰，尘土
+soil    土壤
+oil     油
+occurrence   发生
+establish    建立
+salt     盐
+soda ash   苏打粉
+aqueduct  水渠，水槽
+decline  衰退
+filth   污秽
+
+##### 考试拼写的词
+    perfume    香水
+
+##### 同义替换
+    rinse sth off = wash off sth
+    discovered = found
+    cylinder made of clay = clay cylinder 
+    *** known as sth = sth - ***
+    turn salt into soda ash = make soda ash from salt
+    removed = no longer
+    outbreak = occurrence  发生； 
+    be major factors in = contribute to        
+    the first time = began
+    add to = along with
+    water carried to A  = A supplied with water  
