@@ -30,7 +30,7 @@ Do you like Holiday？
 
 Favorite Holiday?
     It's hard to choose, but my favorite holiday would have to be the Mid-Autumn Festival, on August 15th of the Chinese lunar calendar.
-    during the day, my whole family gets together at my parents family.
+    On that day, my whole family gets together at my parents family.
     we prepare some home-cooked dishes and moon cakes, when the moon is rised, we eat food, watch the moon and chat with each other util the midnight.
 
 最近一次 on vocation?
@@ -44,3 +44,9 @@ Introduce Beijing:
     Beijing is very famous city with many attractions, such as: Great Wall, Forbidden City, Bird's Nest Stadium and so on. 
     Every year, there's many people come to Beijing for sightseeing. 
     
+
+My favourite kind of holiday is probably going on a hiking trip. For example, last year I went to
+On that day
+on that day, we usually eat mooncakes ...
+sometimes we'll take a trip to the local swimming pool
+We often used to go hiking in the forest, and sometime we'd (we would) take a picnic with us.
