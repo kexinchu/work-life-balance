@@ -189,3 +189,46 @@ filth   污秽
     the first time = began
     add to = along with
     water carried to A  = A supplied with water  
+
+
+#### Test4 Section1 & Section2
+replanted   重新种植
+assortment  品种
+boundary    边界
+bend   拐弯处
+constant   持续的(在使用的)
+sustainable   可持续的
+leads off   引出
+let off steam   发泄情绪
+funds   资金
+irrespective of their age   无论他们的年纪
+leave them on their own there  将他们单独留在这
+repair the damage following the disastrous fire   修复灾难性大火造成的损坏
+
+##### 考试拼写的词
+    journalist
+    at present  <连接词>
+
+15 minutes behind schedule   迟到了15分钟
+The café continues to serve an assortment of drinks and snacks.
+the path that goes past the lake towards the old museum.        湖边小路，网就博物馆方向
+It's on a bend in the path that goes round the east side of the lake
+at the end of a little path that leads off from the main path between the lake and the museum.
+it's hoped to extend this to the weekend soon. 
+We're grateful to all those who helped us by contributing their time and money to this achievement.
+
+#### Test4 Section3
+refrigeration    冷藏
+frozen           冷冻
+insulate         隔离
+melt             融化
+domestic   家用的
+pit  坑
+dug   挖
+at quite a distance  远距离
+get rid of  摆脱
+components  成分
+some are disposed of irresponsibly   不负责任的处理
+It's hard to see how they can be stopped unfortunately   不幸的是很难看到他们被阻止
+##### 同义替换
+    realize = discover
