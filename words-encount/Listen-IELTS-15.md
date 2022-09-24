@@ -235,6 +235,9 @@ It's hard to see how they can be stopped unfortunately   不幸的是很难看�
 
 #### Test4 Section4
 retail  零售
+possession  财产
+distribution  分配
+convenience   便利，方便
 an explosion in advertising   广告变得普遍 = common
 not only *** but alse ***
     they included newspapers, which meant that thousands of people were not only more knowledgeable about what was going on in the country, but could also read about what was available in the shops.
