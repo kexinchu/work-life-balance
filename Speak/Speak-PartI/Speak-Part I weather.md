@@ -19,7 +19,8 @@ When the weather gets dry, just like the winter in beijing, my nose will feel un
 And in severe cases, I even get nosebleeds.
 So I don't like the dry weather.
 
-### Are you in the habit of checking the weather forecast? 
+### Are you in the habit of checking the weather forecast? when/how
+No, I'm not used to checking the weather forecast, because 
     - sometimes, 
     - only if there is an outdoor activity on that day,
 
