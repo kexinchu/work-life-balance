@@ -15,21 +15,23 @@ It's really troublesome. So I prefer hot weather.
 
 ### Do you prefer dry or wet weather?
 I prefer wet weather, the reason is that my nose is very sensitive to humidity(湿度).
-When the weather gets dry, just like the winter in beijing, my nose will feel uncomfortable.
-And in severe cases, I even get nosebleeds.
+When the weather gets dry, just like the weather of beijing's winter, 
+my nose will feel uncomfortable.
 So I don't like the dry weather.
 
 ### Are you in the habit of checking the weather forecast? when/how
-No, I'm not used to checking the weather forecast, because 
-    - sometimes, 
-    - only if there is an outdoor activity on that day,
+Yeah, because I usually go to work by bike,  So it's important for me to figure out
+whether it rains or not.
+If it rains, I have to go to the office by subway.
+So I do checing the weather forecast almost every morning.
 
 ### What do you think are the effects of climate change in recent years?
-    - summer : more hot than past,  
-      - see news about somewhere are suffring from the highest heat on record, leading to wildfire.
-    - winter : more cold
-    - the temporature are getting more split.
+Well, I think the most serious climate change in recent years is global warming.
+because it has brought a lot of demage to our planet.
+For example, it makes polar ice melt, which has brought a dire consequence to the polar ecosystem, 
+and it can also cause sea level rise, which may pose the coastal cities and land to be submerged in the future.
 
 ### Would you like to visit other cities that have different climates from where you live?
-    - for a short time, it will be okey
-    - for a long time, 1 year for instance, i think it's not a good idea for me
+Yes, I really like to visit a place where the weather is quite different from my city.
+Because I lived in Beijing, where it's windy and dry almost the whole year, and the dry weather makes me uncomfortable.
+So I'm looking forward to going to a city with wet weather. 
