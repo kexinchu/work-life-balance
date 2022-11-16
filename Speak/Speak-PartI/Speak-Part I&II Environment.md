@@ -1,63 +1,18 @@
-### Adj
-- fond   喜欢的
-- magnificent  [mæɡˈnɪfɪsnt]   壮丽的
-- pervasive   [pəˈveɪsɪv]   普遍的，充斥各处的
-- grave　　　严重的，严峻的
-- renewable   可再生的
-- hazy    [ˈheɪzi]   模糊的
-    - It's warm and hazy today.
-
-### Noums
-- scenery　　风景
-- litter　　垃圾，废弃物
-- carbon footprint　　指某个时间段内日常活动排放的二氧化碳量
-- pollution
-    - I beleieve that litter and rubbish left out on the road, can lead to pollution in our communities.
-- smog      烟雾  air pollution
-    - smog is similiar to fog and it brings a thick layer of pollution
-
-### Verbs
-- to impose   (impose 强制实行)  **这个单词要注意多用**
-    - the law and policy impose people not littering to the sea or water.
-- to deplete  (deplete 耗尽，使枯竭)  *读音*
-    - Fossil fuels are likely to deplete in the future.
-
-### Phrases and Collocations
-- to get the chance
-- city person
-- natural environment/attraction/scenery
-- modern world
-- environmentally friendly
-- eco - friendly   生态友好的
-- dire consequence
-    - dire  极其严重的
-    - consequence  后果，重要性
-    - a  high liver
-- fossil fuels   化石燃料
-- ozone layer   臭氧层
-- solar energy   太阳能
-    - solar energy is a renewable energy
-- exhaust fumes  废气  *读音*
-
-### Linking Words
-- although　　
-- moreover　　此外
-- currently
-- previously
-
 ### Is litter a problem in your area?
-The Rubbish on the road used to be a big problem in the past. But it turns to be ok now.
+The Rubbish on the road used to be a big problem in my area. But it turns to be ok now.
 because the government has been paying attention to environment since 2008 Beijing Olympics.
-On the one hand, the government has put a lot of trash bins beside the roads and inside the community. 
-On the other hand, they have made many education and publicity with the theme of protecting the environment, and reminding people to throw garbage into the trash bins.
-So nowadays, the litter is not a problem any more in my area.
+On the one hand, the government has put a lot of trash bins beside the road and inside the community. 
+On the other hand, they have released many policies for protecting the environment, and there is a fine for littering.
+So nowadays, the littering is not a problem any more.
 
 ### Do you think it's important to recycle materials like metal and plastics?
 Yes, I can't agree any more. 
-Because nowadays the environment problem already becomes the social problem not admitting ignoring. And people need to do everything useful to protect the environment, recycling materials can be a great choice for everyone.
+Because these materials are hard bo be degraded, Once they are drop somewhere, the local soil and water are easy to be polluted. which means the local ecosystem is also threatened.
+So we need to try our best to recycling these materials. especiall plastics.
 
 ### What are the benefits of learning about nature and the environment?
-I think knowing the natural environment can help people to get 
+emmm, I believe that we are a part of nature, and the knowledge obtained from the environment can also help us to understand ourselves.
+Just like studying form bacteria can help us recovering ourselves.
 
 ### Apart from recycling, what can each of us do to help protect the environment?  （Apart from 除了）
 - public transport
@@ -99,7 +54,43 @@ I hope I can join some environmental events and contribute my efforts to it.
 ## Part II
 ### Describe something you do regularly that helps protect the environment?
 emmm, I usually carry a reusable bags with me almost everyday,
-So that I can use my own bag to hold goods instead of plastic bags provided by retail stores or supermarket.
+So that I can use my own bag to hold goods instead of plastic bags provided by retail stores or supermarkets.
 The reason why I do this is because I saw a news that a tutle died from hunger because it ate too much plastic bags, the bags filled it's stomach so that the tutle can not eat food any more.
-The news shcoked me and let me know the harm of palstic bags. Since then, I have chosen to use plastic bags as little as possible. 
-I think when everyone starts to reduce the use of plastic bags, we can reduce the harm of waste plastic bags to other animals and plants.
+The news shocked me and let me know the harm of palstic bags. Since then, I have chosen to use plastic bags as little as possible. 
+I think when everyone starts to carry a bag with him, we can reduce the harm of wasted plastic products to other animals and plants.
+
+
+## Pay Attention to tense
+### Describe a special memory from your childhood
+- from your childhood = past time
+- Since I've known jan, she's been **had** four different jobs.
+- wakes up  固定表达
+- Paul **will unpack** his suitcase
+- She'd better not buy the first one she sees.
+
+I'd like to talk about a problem that affects the environment where I live ...
+It is caused by ...
+Some of the effects are ...
+The issue is important because ...
+One way to solve the issue is ...
+
+### Describe a problem that affects the environment in the area where you live.
+- what the problem is
+- what causes it
+- and explain what you think could be done to solve it
+
+
+
+- feel under the weather  =  not feeling well
+    - I felt under the weather yesterday and didn't go to work.
+- down to earch  = to be practical and sensible
+tip of the iceberg  = a small part of something bigger
+
+
+
+### Describe a place in another part of the world that would love to visit iin the future.
+- what you know about the place
+- how you know about it
+- how you would travel there
+- explain why you would love to visit that place
+
