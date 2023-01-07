@@ -58,9 +58,18 @@ renewable sources   可再生能源
 #### Test3  Section4
 
 #### Test4  Section1
-
+cabin  小屋
 #### Test4  Section2
-
+ have a dip in the ocean
 #### Test4  Section3
-
+conscious  有意识的
+fascinating = interesting
+it inspired me to have a go at it myself (鼓励我想自己尝试一下)
+ I've always enjoyed drawing, so that the field I want to go into when I finished the course.
+the basis for = inspired a work in a different area of art
+I gave up after one = hard to read
+Hardly what you'd expect for a children’s story = unlikely topic 
 #### Test4  Section4
+marble  大理石
+superior 高级的 = better (cameras)
+wine 酒

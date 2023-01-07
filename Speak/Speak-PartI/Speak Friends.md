@@ -1,29 +1,3 @@
-## adj
-fundamental  基本的
-essential    重要的，根本的
-accurate    精确的
-
-## Nouns
-bounding    边界
-honesty     
-integrity     [ɪnˈteɡrəti]   诚实正直
-excitement     激动
-characteristic
-
-## Verbs
-to avoid
-to expose     揭露
-
-## Phrares and Idioms
-to peans in a pod    亲密关系(an intemate relationship)
-to make attempts    尝试
-sort of novelty     有点新奇
-without a doubt     [daʊt]    毫无疑问
-
-## linking Words
-even though
-since then
-
 ## key point
 ### Answer + reason + explanation
 

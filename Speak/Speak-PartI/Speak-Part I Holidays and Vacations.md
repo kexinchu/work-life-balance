@@ -1,23 +1,4 @@
 #### Holiday and Vocation
-Verbs:
-    - to unwind   放松
-    - to gather 
-    - to go sightseeing  去观光
-    - to get together
-    - catch up with   追赶
-    - to contemplate  = consider = think about
-
-Phrase:
-    - to cost an arm or a leg   (俚语)花一大笔钱
-    - change of scenery
-    - to broaden one's horizon  开阔眼界  = have a wider knowledge  /  learn about other cultures
-
-Linking Words:
-    - as often as
-    - indeed   certainly    
-        - emphatic = emphasis
-    - not to mention   更何况
-    - paraphrase  释义
 
 Do you like Holiday？
     Yes, I love Holiday because It give me a chance to take a break from work.

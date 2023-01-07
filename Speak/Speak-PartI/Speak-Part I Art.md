@@ -50,7 +50,10 @@ based on / as found in...
     - admire sci-fi as a genre (genre / category of film/novel/music)
 
 - a famous artists in my country? Why are they famous?
-    - **For me, personally,**
+    - **For me, personally,** 
+    - Chen Danqing
+        - on the one hand, his paintings are very popular with Chinese and foreigners
+        - on the other hand, he is a very interesting person. He made a series of TV programs to introduce art to people
     
 
 

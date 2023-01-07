@@ -1,3 +1,8 @@
+# Write - Read - Correct - Record - Listen
+课程网站： examword.com/ielts-practice/speaking-exam-question
+录音网站： vocaroo.com
+
+
 # Part 2
 - 15句话差不多，差不多就是4个问题，每个问题4句话，就是差不多4个part1
 - Idea + vocalbulary 最重要
@@ -250,6 +255,17 @@
     - explain 说明原因
     - example 举例(或者虚拟反例)
 
+- Repeat / Paraphrase the question
+- Use the same structure as the question
+- Give ideas - examples/reasons : because / for example
+- Use connectors to organise answer
+    - firstly / secondly
+    - mainly / the main thing
+    - in addition / additionally
+    - lastly / last of all
+
+- paraphrase 问题时使用确定的预期，not use it depend on ... ...
+
 ## 常用表达
     - longer-term objectives
 
@@ -330,3 +346,11 @@ you felt:
 - 哪些因素会影响旅游体验 (affect people's feel)
 
 - distinct landscape(独特的风景); 你会因为风景去另一个国家吗？
+
+
+1. I am going to tell you about a sport I'm interested in but have never played. 
+2. The people in NBA have shown a very high level of skills. 
+3. I hope in the future I can get the chance to watch the NBA live.
+4. university sports
+5. live sports  (现场看运动)
+6. It's hard to say, but...(if I had to choose)

@@ -1,26 +1,3 @@
-Verbs
-to enroll    报名
-to graduate   毕业
-
-Nouns
-public school  
-private school
-co-ed school    男女同校  (发音)
-subject specialist    学科专家
-qualification    资质，合格
-concentration    专注
-
-Phrases and Collocation
-take a year off / gap year     休学一年
-to work your way through college      努力完成大学
-teacher's pet     最喜欢的学生
-to keep up (with your study)   跟上
-
-Linking Words
-I guess
-as well as
-nowadays
-
 #### Why did you choose your subject?
 注意 chose 的发音
 - Well, one reason I chose science is because science is very interesting.

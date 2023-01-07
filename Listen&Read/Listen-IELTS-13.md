@@ -123,5 +123,13 @@ injuries  伤害
 #### Test4  Section2
 
 #### Test4  Section3
+allergy  过敏
+sth is a real eye-opener  sth让人大开眼界
+would have been compulsory  强制性的
+ridiculous  荒谬的
+without enough consultation  没有经过足够的商讨
+transparent 透明的
 
 #### Test4  Section4
+destruction  毁灭
+taxation  税收
