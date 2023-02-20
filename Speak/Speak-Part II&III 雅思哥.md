@@ -26,7 +26,7 @@
             - I am going to tell you about a person, He is my best friend. 
             - (除了父母，都可以介绍怎么遇到的) The first time I mat him is in ${where, +从句}。
                 - Anhui province, a city in middle of china, and is my homtown.
-                - Hefei University of Technology, a university in Anhui province, is my alma mater.
+                - Hefei University of Technology, a university in Anhui province.
                 - a social media site, called Bilibili.
         - 物品
             - I am going to tell you about a watch/computer.
@@ -46,12 +46,12 @@
 
     - 定性(简单形容词)
         - 人
-            - hardworing:  energetic, motivated, persistent, determined to succeed, a good team player, like to challenge himself/herself
+            - hardworking:  energetic, motivated, persistent, determined to succeed, a good team player, like to challenge himself/herself
             - friendly: kind, unselfish, supportive, down-to-earch, easy-going, always there when you need him, someone who always cheers me up
         - 物品
             - 
         - 事情
-            - special event/activity: memorable, unforgettable, amazing, wonderful, fantastic, a day to remember, it was a once-in-a-lifetime experience,
+            - special event/activity: memorable, unforgettable, amazing, wonderful, fantastic, a day worth to remember, it was a once-in-a-lifetime experience,
             - I had a great time, I enjoyed every minute.
             - a fantastic atmosphere.
         - 地方
@@ -292,7 +292,7 @@
         - No, I don't think learning english is a bad/good thing for sb.
         - No, I disagree with that, I think / believe/ suppose ...(your point)
     - 中立：
-        - It's hard to say whether sth is purely good or purely bad. I think it depends on (how much you do it)/(the environment around you or the background of you). on the one hand, ... ; while on the other hand, ...
+        - It's hard to say whether sth is purely good or purely bad. I think in some case A ..., but its not enough, on the other hand,...
     - 原因：
         - But if I had to give a reason, I'd say study English can help chinese student to learn about other cultures.
         - The reason why I agree with it is because ...

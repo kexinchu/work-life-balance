@@ -11,9 +11,9 @@
 ### Write
 ### Do you write a lot?
 Yeah, I'm a software engineer, my work requires me to read literatures in pure English. 
-So I need to make some summaries on them, and I really need to write them down briefly.
+So I need to make some summaries on them, so I usually write them down briefly.
 ### What do you like to write? Why?
-Well, you probably don't think I'm serious about this question, but I particularly enjoy in writing shopping list before I go to the local supermarket. because it can remind myself what I really need to buy.
+Well, you probably don't think I'm serious about this question, but I particularly enjoy in writing shopping list before I go to the local supermarket. because it can remind me what I really need to buy.
 ### Do you think the things you write would change?
 To be honest, I have never thought about this. 
 But however changes are happening almost everyday. 
@@ -27,21 +27,19 @@ Because nowadays, even if you computer is not around, you can also record someth
 ## Weather
 ### What's the weather like where you live?
 I live in beijing, in the northeast part of China.
-Where the spring and autumn is short while the winter and summer is very long.
+Where the spring and autumn is short while the winter is very long.
 And in winter, the weather in beijing can become very dry and cold. however other seasons are fine.
 ### Do you prefer cold or hot weather?
 I think hot weather is better than cold weather.
 Especially the cold days, like in winter when the temporature is blow 0 grade.
-You just can not feel your finger and toes. And hand gloves will be really needed all the time.
+You just can not feel your fingers. And hand gloves will be really needed all the time.
 It's really troublesome. So I prefer hot weather.
 ### Do you prefer dry or wet weather?
-I prefer wet weather, the reason is that my nose is very sensitive to humidity(湿度).
-When the weather gets dry, just like the weather of beijing's winter, 
-my nose will feel uncomfortable.
+I prefer wet weather, the reason is that my nose is very sensitive.
+When the weather gets dry, just like the weather of beijing's winter, my nose will feel uncomfortable.
 So I don't like the dry weather.
 ### Are you in the habit of checking the weather forecast? when/how
-Yeah, because I usually go to work by bike,  So it's important for me to figure out
-whether it rains or not.
+Yeah, because I usually go to work by bike,  So it's important for me to figure out whether it rains or not.
 So I do checing the weather forecast almost every morning.
 ### What do you think are the effects of climate change in recent years?
 Well, I think the most serious climate change in recent years is global warming.
@@ -56,7 +54,7 @@ So I'm looking forward to going to a city with wet weather.
 
 ## Technology
 ### What technology do you often use, computers or cellphones?
-For me? I often use both of them, I worked in an IT company, so I need to use computer for my daily work. and after work, I use cellphone for entertainment, like wathing TV or read novels.
+For me? I often use both of them, I worked in an IT company, so I need to use computer for my daily work. and after work, I use cellphone for entertainment, like wathing TV or play games.
 ### What electronic devices have you bought lately? (最近买了什么电子设备)
 I bought an new computer about three month ago.
 I need to use my computer frequently to search materials and take notes, 
@@ -67,9 +65,9 @@ Yes, sure, if I had to choose one, I would like to say the SmartWatch. Every tim
 Yes,for example, cellphone, easier to get connect with familiers.
 ### Is there any technology you don't like?
 The wecht, an social media application
-now, it is used as a working tool, and it make me hard to bave my own time.
+now, it is used as a working tool, and it make me hard to control my part-time.
 ### What do you think are the trends in technology today compared to when you were young?
-I think in recent years, the technology are encouraging us to pay more attrntion to the web, in particular, .
+I think in recent years, the technology are encouraging us to pay more attention to the web.
 but when I was young, technology was usually used to make everyone's life easier.
 
 
@@ -108,7 +106,7 @@ Yes, release stress.
 ### Did you do puzzles in your childhood?
 Yes, there were crossword puzzles on the back of newspapers.
 ### When do you do puzzles, during your trip or when you feel bored?
-Now, when I feel bored, usually during the commute to and from work.
+Now, when I feel bored, usually during the way to work.
 ### Do you like doing word puzzles or number puzzles? which is more difficult for you?
 I prefer number puzzles, 
 ### Do you think it is good for old people to do puzzles?
@@ -118,7 +116,7 @@ Yes, I agree with that, motivate their brain, keep health.
 ### kind of transportation usually take?
 subway, In beijing, the subway can take you anywhere you want to go, very conveniently.
 ### when
-during the commute to or from work. I live a little far from the company I work for.
+Monday morning and Friday evening, during the way to work. I live a little far from the company I work for.
 ### do most people prefer ?
 I suppose Yes, no traffic jam, especially in the peak commuting period.
 ### did you take * when you ware a kid?
@@ -153,7 +151,7 @@ No, on weekdays, I get up much earlier than on the weekends. because I need to g
 
 ## Evening time
 ### like morning or evening?
-personally, I prefer evening, because it's different form the daytime, you need to work in the daytime, but the evening belongs to me, I can do anything I want to do.
+personally, I prefer evening, because it's different form the daytime, I need to work in the daytime, but the evening time belongs to me, I can do anything I want to do.
 ### what do you usually do in the evening
 Generally, I watch TV shows or sport games in the evening.
 empty my mind and don't think about anything at work, to unwind me.
@@ -201,8 +199,8 @@ I did the same thing as I do now.
 ### is it important? celebrate birthday
 Yes, celebrating birthday is a good opportunity to get together with my firends.
 ### who's birthday is the most important to celebrate in China?
-It mush be chairman Mao, He led the chinese people to stop the japanese invasion, end the war and established the people's republic of China.
-He is the person I respect the most.
+It must be chairman Mao, He led the chinese people to stop the japanese invasion, end the war and established the people's republic of China.
+He is the person I respect the most. 
 
 ## Sport programs
 ### like watching sports programs on TV?
@@ -224,16 +222,14 @@ computer science
 ### interesting things have you done with science
 experiment + a demo of face recognition
 ### like science TV ? 
-a documentary about the mozilla named "Code Rush", 
-demonstrate how engineers saved their company through code.
-It's very interesting.
+animal world
 ### do chinese people often visit science museums?
 No I don't think so.
 For what I can tell, people prefer other category
 history museum, 
 
-## Daily routine
-### daily study routine?
+## Dialy routine
+### dialy study routine?
 In the morening, I usually prepare a work list, and focus on the most important works.
 Then in the afternoon, I usually finish the work one by one according to my work list.
 After dinner, unless there is something very urgent, I usually take a break at night, such as watching TV.
@@ -242,7 +238,7 @@ sometimes when I feel tired, I change my routine.
 for instance, I did so much exercise at last saturday, it made me tired, so i didn't get up until noon last sunday.
 ### is it important to have a daily routine for study?
 Yes, obviously,  plays a very important roles in my study. 
-help me to pay more attention on my study.
+help me to stay focus on my study.
 ### what part of your day do you like best?
 the night, hahaha, take a break at night. watching TV can unwind me.
 
@@ -362,7 +358,7 @@ Long:         17 years, lived there util I went to college
 继续住：       Probably no,  for work. and the big city has more oppotunities.
 describe:     surrounded by mountains + a river flows through the valley. is right by the river.
 famous:       Tea, temporature is suitable for the grouth of tea trees.
-history:      Yes, I studied the history of my hometown at scheool. 
+history:      Yes, I studied the history of my hometown at school. 
 
 ## Home & Acommodation(公司)
 house or flat?:      share a house with others, In beijing, too expensive to rent a whole house.
@@ -374,7 +370,7 @@ Who live with:       my friend, He used to be my workmates, now he working in an
 room family live:    they never come to the house and live with me. it's too small
 usually do :         watching TV, read books and sometimes play computer games
 live for a long time:No,  saving for a down payment on a house.  own my own house in the future.
-prefer house or flat:   It's hard to say, but if I had to choose, it would be house, It's more convenient for cooking.
+prefer house or flat:   It's hard to say, but if I had to choose, i would like to choose house, It's more convenient for cooking.
 transport facilities:   Yes, I can walk home from the subway station about 20 minutes. the reason why I choose this house.
 kind of house prefer:   a big house with at least 3 rooms, parents can live with me.
 favorate room? :        the kitchen, I enjoy cooking
@@ -388,7 +384,7 @@ basketball, the first time I contact basketball is about 2008.
 the Olympic Games hold in Beijing, I knew Yao Ming through the TV, one of the most basketball players in china. then I knew the NBA, I found playing basketball is fun. then I enjoyed basketball
 ### where did you learn how to do it?
 Firstly, I learnt how to play basketball through the TV. I Imitated the movements of basketball player. I could not play well.
-Then, A new physical education teacher came to my school, and He taught us how to play basketball in the right way.
+Then, A new PE teacher came to my school, and He taught us how to play basketball in the right way.
 ### did you do sports when you were young?
 No, I lived in a small village,   until I went to my primary school.
 I played games with other kids.
