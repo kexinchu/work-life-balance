@@ -280,7 +280,7 @@ Yes, old people should go out of their way to do puzzles or other kinds of brain
 
 ## public transportation
 ### What kind of transportation do you usually take?
-It's the subway! I would say that I often take the subway more than any other kind of public transportation. Because my apartment is nearby a subway station, I take the subway to the office every workday.
+It must be the subway! I take the subway more than any other kind of public transportations. Because my apartment is nearby a subway station, I take the subway to the office every workday.
 ### when do you usually take public transportation, in your everyday life or when you are travelling?
 I prefer to use public transport for both daily life and travel. Because both the high-speed rail and the subway are very convenient and fast, and the price is also not expensive.
 ### do most people prefer public transportation in your country?
